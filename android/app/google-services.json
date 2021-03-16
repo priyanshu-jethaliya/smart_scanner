@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "368766930129",
+    "project_id": "smart-scanner-8355f",
+    "storage_bucket": "smart-scanner-8355f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368766930129:android:baed8ceefc6a76975949f0",
+        "android_client_info": {
+          "package_name": "com.priyanshu.smart_scanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368766930129-t1ic4t6d63oroou3j6gsr9sij3keb4r2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7uMijmttUjUEirbawCQjfXl2ctS_NuHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368766930129-t1ic4t6d63oroou3j6gsr9sij3keb4r2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
